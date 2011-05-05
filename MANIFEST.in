@@ -1,0 +1,4 @@
+include MANIFEST.in
+include *.txt *.cfg
+global-include *.py
+
